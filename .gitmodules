@@ -1,6 +1,6 @@
 [submodule "boilerplate-npm"]
 	path = boilerplate-npm
-	url = https://github.com/freeCodeCamp/boilerplate-npm.git
+	url = https://github.com/yehezkielgunawan/boilerplate-npm.git
 [submodule "boilerplate-express"]
 	path = boilerplate-express
-	url = https://github.com/freeCodeCamp/boilerplate-express.git
+	url = https://github.com/yehezkielgunawan/boilerplate-express.git
