@@ -4,3 +4,6 @@
 [submodule "boilerplate-express"]
 	path = boilerplate-express
 	url = https://github.com/yehezkielgunawan/boilerplate-express.git
+[submodule "boilerplate-mongomongoose"]
+	path = boilerplate-mongomongoose
+	url = https://github.com/yehezkielgunawan/boilerplate-mongomongoose.git
