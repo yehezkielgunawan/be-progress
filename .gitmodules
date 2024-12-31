@@ -13,3 +13,6 @@
 [submodule "boilerplate-project-headerparser"]
 	path = boilerplate-project-headerparser
 	url = https://github.com/yehezkielgunawan/boilerplate-project-headerparser.git
+[submodule "boilerplate-project-urlshortener"]
+	path = boilerplate-project-urlshortener
+	url = https://github.com/freeCodeCamp/boilerplate-project-urlshortener.git
