@@ -16,3 +16,6 @@
 [submodule "boilerplate-project-urlshortener"]
 	path = boilerplate-project-urlshortener
 	url = https://github.com/freeCodeCamp/boilerplate-project-urlshortener.git
+[submodule "boilerplate-project-exercisetracker"]
+	path = boilerplate-project-exercisetracker
+	url = https://github.com/yehezkielgunawan/boilerplate-project-exercisetracker.git
